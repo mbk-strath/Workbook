@@ -12,10 +12,10 @@ Prerequisites
 Node.js & npm installed - install with nvm
 Installation
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone the url
 
 # Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+cd Workbook
 
 # Step 3: Install the necessary dependencies
 npm i
