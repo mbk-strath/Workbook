@@ -11,26 +11,23 @@ WorkBook is a web-based platform designed to make communication between students
 - Centralized resource management
 
 ## Getting Started
-
-### Prerequisites
-
-- Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+First you'll need node.js and nvm installed
 
 ### Installation
 
-```sh
+
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone the url
 
 # Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
+cd Workbook
 
 # Step 3: Install the necessary dependencies
 npm i
 
 # Step 4: Start the development server
 npm run dev
-```
+
 
 ## What technologies are used for this project?
 
